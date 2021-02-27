@@ -2,7 +2,9 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Calculator</title>
+  
+  <title>Calculator by Elli0tvm</title>
+  
   <style>
     * {
       box-sizing: border-box;
